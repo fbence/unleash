@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Bug Fixes
 
+- alma
 - Only load ga and gtm in production ([#10612](https://github.com/Unleash/unleash/issues/10612))
 
 - Limit reset when no pagination bar ([#10634](https://github.com/Unleash/unleash/issues/10634))
